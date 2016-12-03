@@ -20,7 +20,7 @@ char a;
 
 scanf("%c",&a);
 
-if(isVowel(a))
+if(isalpha(a))
 
   printf("Alphabet");
 
